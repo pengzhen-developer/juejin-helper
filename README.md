@@ -80,3 +80,6 @@ DevTools截图:
 ## 许可
 
 [MIT](./LICENSE)
+
+
+Update for "The "Auto" workflow in pengzhen-developer/juejin-helper will be disabled soon" 2025-04-03
